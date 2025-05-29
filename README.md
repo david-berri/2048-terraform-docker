@@ -1,6 +1,6 @@
 # 🎮 Juego 2048 en AWS con Terraform + Docker
 
-Este proyecto despliega automáticamente una instancia EC2 en AWS que ejecuta el juego 2048 en un contenedor Docker utilizando **Terraform** para crear la infraestructura y **Docker** para el despliegue de la aplicación.
+Para que el proyecto funcione, se necesita abrir la carpeta raiz en git bash y ejecutar "bash ./scripts/deploy.sh"
 
 ---
 

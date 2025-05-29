@@ -2,6 +2,14 @@
 
 Para que el proyecto funcione, se necesita abrir la carpeta raiz en git bash y ejecutar "bash ./scripts/deploy.sh"
 
+desde gitbash si no funcionan las credenciales actualizalas con:
+
+export AWS_ACCESS_KEY_ID=""
+export AWS_SECRET_ACCESS_KEY=""
+export AWS_SESSION_TOKEN=""
+
+Y vuelve a usar bash ./scripts/deploy.sh
+
 ---
 
 ## 📌 Tecnologías utilizadas
